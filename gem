@@ -1,5 +1,5 @@
-the:print
-stc:input
+the = print
+stc = input
 white = '\x1b[1;97m'
 blue = '\x1b[1;94m'
 cyan = '\x1b[1;96m'
