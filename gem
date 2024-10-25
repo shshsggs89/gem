@@ -1,0 +1,33 @@
+the:print
+stc:input
+white = '\x1b[1;97m'
+blue = '\x1b[1;94m'
+cyan = '\x1b[1;96m'
+black = '\x1b[1;30m'
+yellow = '\x1b[1;33m'
+light_green = '\x1b[2;32m'
+red = '\x1b[1;31m'
+magenta = '\x1b[1;95m'
+light_magenta = '\x1b[2;35m'
+default = '\x1b[2;39m'
+custom_white = '\x1b[38;5;231m'
+orange = '\x1b[38;5;208m'
+dark_orange = '\x1b[38;5;202m'
+medium_orange = '\x1b[38;5;203m'
+bright_orange = '\x1b[38;5;204m'
+very_dark_orange = '\x1b[38;5;209m'
+green = '\x1b[38;5;76m'
+light_green = '\x1b[38;5;120m'
+vivid_green = '\x1b[38;5;150m'
+light_yellow = '\x1b[38;5;190m'
+custom_white_2 = '\x1b[38;5;231m'
+coc = cookies
+chc = headers
+send = requests
+ie = id
+it = token
+ee = if
+es = elif
+dac = data
+hh = for
+tol = def
