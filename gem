@@ -26,8 +26,5 @@ chc = headers
 send = requests
 ie = id
 it = token
-ee = if
-es = elif
 dac = data
-hh = for
-tol = def
+
